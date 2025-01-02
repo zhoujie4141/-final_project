@@ -1,1 +1,1 @@
-# -final_project
+复现只需pip安装ipynb所需的包即可
